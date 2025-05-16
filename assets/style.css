@@ -1,0 +1,6 @@
+html {font-size: 25px;text-align: left;}body {background-color: #F0FFFF;}
+.contentarea{display: block;width: 80%;background-color: #F0F8FF;margin: 0 auto;}
+.tac{text-align: center;/*文字を中央ぞろえにする*/}.tal{text-align: left;/*文字を左揃えにする*/}.tar{text-align: right;/*文字を右揃えにする*/}.tae{text-align: end;}
+/*文字の色*/ .tc000{color:#000}.tcf00{color:#f00}.tc0f0{color:#0f0}.tc00f{color:#0000ff}.tcfff{color: #ffffff;}
+/*背景の色*/ .bgc000{background-color: #000;}.bgcf00{background-color:#f00;}.bgc0f0{background-color: #0f0;}.bgc00f{background-color: #0000ff;}.bgc{background-color: #ffffff;}
+.tdul{text-decoration: underline;}.tdol{text-decoration: overline;}.td{text-decoration: none;}.tdn{text-decoration: none;}.tdnone{text-decoration: none;}.tds{text-decoration: solid;}
